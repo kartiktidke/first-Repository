@@ -1,1 +1,1 @@
-s is a sample File that is to be commited
+This is a sample file that is to be commited
